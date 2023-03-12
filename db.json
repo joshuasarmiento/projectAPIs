@@ -1,0 +1,221 @@
+{
+	"projects": [
+		{
+		  "nodata": "false",
+		  "live": "false",
+		  "id": 1,
+		  "title": "BLook",
+		  "type": "Mobile Application",
+		  "details": "Project One",
+		  "url": "Blook.png",
+		  "titleDesc": "Mobile Booking Application for Salons, Barber Shops, and Beauty Salons",
+		  "date": "Jun 2021 - Dec 2021",
+		  "role": "UI/UX Designer and Frontend Developer",
+		  "image1": "Blook.png",
+		  "image2": "/Blook/blookApps.png",
+		  "client": "Ateneo De Naga University",
+		  "objective": "An application that can serve as a portal for salons, parlors, and barber shops on booking their appointments.",
+		  "tools": [
+			"Flutter",
+			"Firebase",
+			"Visual Studio Code",
+			"Android Studio",
+			"Figma",
+			"Google Map API"
+		  ],
+		  "challenge": [
+			"Booking systems are being used in an increasing number of venues. The majority of the booking system's features are not accessible tothe user or administrator. Even when purchasing anything online, the item is reserved for the potential buyer. The more resources and other dynamic elements a system possesses, the more processing must be performed.",
+			"According to the findings of the usability test that was done in the areas of shop owners and clients, the users were able to appreciate the application. The client was able to book their desired services without having to walk to the shop. The shop owner was able to evaluate the appointments set by the user and accept or reject them in a timely manner.",
+			"The test resulted in an overall positive response, with client users successfully completing the appointment schedule via the mobile application. Using the formula in calculating the SUS score, Client application got a average score of 75% while the shop owner application with the average score of 68%."
+		  ],
+		  "repo": "https://github.com/joshuasarmiento/blook_app",
+		  "liveLink": "",
+		  "contributors": [
+			{
+			  "image": "/Blook/Contributors/JeffPic.jpg",
+			  "link": "https://jeffbanday.github.io/",
+			  "name": "Jeff C. Banday"
+			},
+			{
+			  "image": "/Blook/Contributors/SaqPic.jpg",
+			  "link": "https://www.facebook.com/xxttian",
+			  "name": "Christian A. Saquillo"
+			},
+			{
+			  "image": "/joshua.jpg",
+			  "link": "https://www.linkedin.com/in/joshuasarmiento/",
+			  "name": "Joshua A. Sarmiento"
+			}
+		  ]
+		},
+		{
+		  "nodata": "false",
+		  "live": "false",
+		  "id": 2,
+		  "title": "CHEDROV",
+		  "type": "Web Application",
+		  "details": "Project Two",
+		  "url": "chedDash.png",
+		  "titleDesc": "CHED Application of Programs Management System",
+		  "date": "Jan 2022 - Jun 2022",
+		  "role": "Project Lead, UI/UX Designer, Frontend Developer",
+		  "image1": "CHED/CHEDReports.png",
+		  "image2": "/CHED/CHEDDashboard.png",
+		  "client": "CHED Supervisor and Staff",
+		  "objective": "A web-based application for the processing of program applications by various Higher Education Institutions.",
+		  "tools": [
+			"Vue JS", "NodeJS", "Visual Studio Code", "Figma", "Figma", "Tailwind CSS", "Parse Server/Dashboard", "Laragon", "Robo 3T", "Mongo DB Compass"
+		  ],
+		  "challenge": [
+			"The scope of this project is a web-based system composed of modules that handle the application of programs of HEIs. Including, but not limited to: Account Creation Module, Renewal Module, Initial Offering Module, Government Recognition Module, Certificate of Program Compliance Module, Report Generation Module and Notification Module The project is limited to digitizing and improving the efficiency of the current process of application of programs.",			
+			"The current program application process causing a lot of concerns which are; documents are mixed up or even forgotten by the supervisors because it’s voluminous, supervisors sometimes forget to prepare follow-up letters for HEIs because of the unorganized documents, and HEIs operating programs even without the corresponding government authority, HEIs non-observance of the timelines causing a delay in application progress, and the Commission issuing Special Order for Graduation which all leads to delays in the issuance of corresponding government authority for HEIs.",			
+			"The CHED Programs Application Management System was developed in order to have a more efficient and effective way of managing HEIs program applications. This system should take away the hassle of the manual application process that the CHED is currently implementing."
+		  ],
+		  "repo": "https://github.com/joshuasarmiento/blook_app",
+		  "liveLink": "",
+		  "contributors": [
+			{
+			  "image": "/Blook/Contributors/JeffPic.jpg",
+			  "link": "https://jeffbanday.github.io/",
+			  "name": "Jeff C. Banday"
+			},
+			{
+			  "image": "/Blook/Contributors/SaqPic.jpg",
+			  "link": "https://www.facebook.com/xxttian",
+			  "name": "Christian A. Saquillo"
+			},
+			{
+			  "image": "/joshua.jpg",
+			  "link": "https://www.linkedin.com/in/joshuasarmiento/",
+			  "name": "Joshua A. Sarmiento"
+			},
+			{
+				"image": "/CHED/contributors/DuanePic.jpeg",
+				"link": "https://www.facebook.com/dxb36",
+				"name": "Duane Xave Bondad"
+			  },
+			  {
+				"image": "/CHED/contributors/SevPic.jpeg",
+				"link": "https://www.facebook.com/sev.sarate.9",
+				"name": "Severino Sarate"
+			  }
+		  ]
+		},
+		{
+			"nodata": "false",
+			"live": "true",
+			"id": 3,
+			"title": "Recipe API",
+			"type": "Website",
+			"details": "",
+			"url": "edaman.png",
+			"titleDesc": "Web Application Recipe Api",
+			"date": "July 2022",
+			"role": "Frontend Developer",
+			"image1": "edaman.png",
+			"image2": "/edaman/edamanLogin.png",
+			"client": "Frontend Developers",
+			"objective": "A web application that consumes data coming from https://www.edamam.com/ API..",
+			"tools": [
+				"Firebase", "Visual Studio Code", "Tailwind Css", "Vuejs", "Vuex"
+			],
+			"challenge": [
+				"This web application is an assessment for frontend developers, building simple web applications and retrieving API data", 
+				"The web application includes the following features: Signup and Login Page. Home page - display recipe data from /api/recipes/v2 endpoint, Lazy loading when displaying the data, Search recipe functionality, A page to view other details of a specific recipe, Logout functionality, Lazy Loading List (New) and Vue Toast (New)"
+			],
+			"repo": "https://github.com/joshuasarmiento/RecipeAPI",
+			"liveLink": "https://jocular-bavarois-008dc0.netlify.app/#/login",
+			"contributors": [
+			  {
+				"image": "/joshua.jpg",
+				"link": "https://www.linkedin.com/in/joshuasarmiento/",
+				"name": "Joshua A. Sarmiento"
+			  }
+			]
+		  },
+		  {
+			"nodata": "false",
+			"live": "true",
+			"id": 4,
+			"new": "NEW",
+			"title": "Asterra Condominium",
+			"type": "Website",
+			"details": "",
+			"url": "Asterra/asterra.png",
+			"titleDesc": "Real Estate Website",
+			"date": "December 2022",
+			"role": "UI/UX Designer and Frontend Developer",
+			"image1": "Asterra/asterra.png",
+			"image2": "/Asterra/asterraHomePage.png",
+			"client": "Potential buyer / Prospective homeowner",
+			"objective": "Designing website aesthetics, coding using various programming languages, creating website features, optimizing website accessibility, conducting quality testing, and troubleshooting issues.",
+			"tools": [
+				"Wordpress", "MySQL", "Google Analytics", "Google Optimize", "Advanced PHP", "Bootstrap", "Yoast SEO", "Javascript", "CSS", "HTML"
+			],
+			"challenge": [
+				"Responsible for bringing website designs to life by writing clean, efficient, and well-structured code that runs smoothly on a variety of devices and platforms"
+			],
+			"repo": "",
+			"liveLink": "https://asterra.com.ph/",
+			"contributors": [
+			  {
+				"image": "/joshua.jpg",
+				"link": "https://www.linkedin.com/in/joshuasarmiento/",
+				"name": "Joshua A. Sarmiento"
+			  },
+			  {
+				"image": "/Asterra/JomarBalasbas.jpg",
+				"link": "https://ph.linkedin.com/in/jomar-balasbas",
+				"name": "Jomar Balasbas"
+			  },
+			  {
+				"image": "/Asterra/JeanChua.jpg",
+				"link": "https://ph.linkedin.com/in/jeannine-chua-4299bb188",
+				"name": "Jeannine Chua"
+			  }
+			]
+		  },
+		  {
+			"nodata": "false",
+			"live": "true",
+			"id": 5,
+			"new": "NEW",
+			"title": "Bria Homes Inc.",
+			"type": "Website",
+			"details": "",
+			"url": "BriaHomes/bria-home-page.png",
+			"titleDesc": "Real Estate Website",
+			"date": "August 2022",
+			"role": "UI/UX Designer and Frontend Developer",
+			"image1": "BriaHomes/bria-home-page.png",
+			"image2": "/BriaHomes/bria-comapany-profile.png",
+			"client": "Potential buyer / Prospective homeowner",
+			"objective": "Designing website aesthetics, coding using various programming languages, managing website content, creating website features, optimizing website accessibility, conducting quality testing, and troubleshooting issues.",
+			"tools": [
+				"Wordpress", "MySQL", "Google Analytics", "Google Optimize", "Advanced PHP", "Bootstrap", "Yoast SEO", "Javascript", "CSS", "HTML"
+			],
+			"challenge": [
+				"Responsible for bringing website designs to life by writing clean, efficient, and well-structured code that runs smoothly on a variety of devices and platforms"
+			],
+			"repo": "",
+			"liveLink": "https://www.bria.com.ph/",
+			"contributors": [
+			  {
+				"image": "/joshua.jpg",
+				"link": "https://www.linkedin.com/in/joshuasarmiento/",
+				"name": "Joshua A. Sarmiento"
+			  },
+			  {
+				"image": "/Asterra/JomarBalasbas.jpg",
+				"link": "https://ph.linkedin.com/in/jomar-balasbas",
+				"name": "Jomar Balasbas"
+			  },
+			  {
+				"image": "/Asterra/JeanChua.jpg",
+				"link": "https://ph.linkedin.com/in/jeannine-chua-4299bb188",
+				"name": "Jeannine Chua"
+			  }
+			]
+		  }
+	  ]
+}
