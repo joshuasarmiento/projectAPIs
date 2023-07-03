@@ -1,0 +1,22 @@
+{
+    "blogs": [
+        {
+          "title": "Blog 1",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "author": "Joshua",
+          "id": 1
+        },
+        {
+          "title": "Blog 2",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "author": "Biboy",
+          "id": 2
+        },
+        {
+          "title": "Blog 3",
+          "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+          "author": "Joshua",
+          "id": 3
+        }
+      ]
+}
