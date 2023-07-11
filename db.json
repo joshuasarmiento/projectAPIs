@@ -340,13 +340,37 @@
     ],
 	"frontendTools": [
 		{
-			"id": 1,
+			"name": "Joshua Sarmiento",
 			"title": "TailwindCSS",
 			"content": "A utility-first CSS framework.",
 			"link": "https://tailwindcss.com/",
-			"dateAdded": "2023-07-22",
-			"upvotes": 0,
-			"options": ["cssFrameworks"]
+			"dateAdded": "2023-07-11",
+			"options": [
+			"cssFrameworks"
+			],
+			"id": 1
+		},
+		{
+			"name": "Joshua Sarmiento",
+			"title": "Font Awesome",
+			"content": "Build and manage icons and typefaces in a single place, then serve them with a single line of code.",
+			"link": "https://fortawesome.com/",
+			"dateAdded": "2023-07-11",
+			"options": [
+			"fonts"
+			],
+			"id": 2
+		},
+		{
+			"name": "Joshua Sarmiento",
+			"title": "CodePen",
+			"content": "CodePen is a social development environment for front-end designers and developers.",
+			"link": "https://codepen.io/",
+			"dateAdded": "2023-06-11",
+			"options": [
+			"codePlaygrounds"
+			],
+			"id": 3
 		}
 		
 	]
