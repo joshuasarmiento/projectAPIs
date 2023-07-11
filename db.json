@@ -337,5 +337,17 @@
           "author": "Joshua",
           "id": 3
         }
-    ]
+    ],
+	"frontendTools": [
+		{
+			"id": 1,
+			"title": "TailwindCSS",
+			"content": "A utility-first CSS framework.",
+			"link": "https://tailwindcss.com/",
+			"dateAdded": "2023-07-22",
+			"upvotes": 0,
+			"options": ["cssFrameworks"]
+		}
+		
+	]
 }
